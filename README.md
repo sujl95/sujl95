@@ -1,1 +1,1 @@
-![sujl95's github stats](https://github-readme-stats.vercel.app/api?username=sujl95&show_icons=true&theme=highcontrast)
+![sujl95's github stats](https://github-readme-stats.vercel.app/api?username=sujl95&show_icons=true&theme=dracula)

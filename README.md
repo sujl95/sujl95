@@ -1,15 +1,12 @@
-# SungJun LEE // TheWing 
+# Lee SungJun // TheWing 
 -  **[Tistory Blog](https://sujl95.tistory.com/)**
--  **[공부한 것을 정리한 공간입니다. Notion](https://spectacled-dill-995.notion.site/TheWing-5896c88ddf8f4f968ec7aea7369d5645)**
+-  **[개인적으로 공부한 자료를 저장하는 곳 입니다.](https://spectacled-dill-995.notion.site/TheWing-5896c88ddf8f4f968ec7aea7369d5645)**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujl95&show_icons=true&theme=radical"/>
 <p>
   
 <br>
-
-
-
 
 
 ## Tech Stack
@@ -34,4 +31,4 @@
 <br/>
 
 ## Community
-
+- [알고리즘 스터디](https://open.kakao.com/o/gkXkcHxc)

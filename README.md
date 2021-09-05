@@ -32,3 +32,4 @@
 
 ## Community
 - [알고리즘 스터디](https://open.kakao.com/o/gkXkcHxc)
+- [알고리즘 스터디 디스코드](https://discord.gg/NHwJTmUqYU)

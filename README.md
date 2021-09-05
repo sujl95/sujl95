@@ -1,6 +1,6 @@
 # Lee SungJun // TheWing 
 -  **[Tistory Blog](https://sujl95.tistory.com/)**
--  **[개인적으로 공부한 자료를 저장하는 곳 입니다.](https://spectacled-dill-995.notion.site/TheWing-5896c88ddf8f4f968ec7aea7369d5645)**
+-  **[개인적으로 공부한 자료를 저장하는 곳 입니다.](https://bit.ly/TheWingNotion)**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujl95&show_icons=true&theme=radical"/>

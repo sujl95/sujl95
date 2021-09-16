@@ -29,6 +29,3 @@
 </p>
 
 <br/>
-
-## Community
-- [알고리즘 스터디](https://open.kakao.com/o/gkXkcHxc)
